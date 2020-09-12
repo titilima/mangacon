@@ -1,4 +1,4 @@
-# Release Nots
+# Release Notes
 
 ## 2.7.1.36 Beta (2020-09-08)
 
