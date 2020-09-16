@@ -2,6 +2,10 @@
 
 [中文版本 >>](https://gitee.com/titilima/mangacon/blob/master/v2/release_notes.md)
 
+## 2.7.1.40 RC2 (2020-09-16)
+
+* Fix a parsing-failed issue.
+
 ## 2.7.1.38 RC (2020-09-13)
 
 * Fix a crash while checking update.
