@@ -2,6 +2,10 @@
 
 [中文版本 >>](https://gitee.com/titilima/mangacon/blob/master/v2/release_notes.md)
 
+## 2.7.2.42 Beta (2020-11-24)
+
+* Improve memory usage.
+
 ## 2.7.1.41 (2020-09-30)
 
 * Fix a download-failed issue.
