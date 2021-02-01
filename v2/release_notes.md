@@ -2,6 +2,10 @@
 
 [中文版本 >>](https://gitee.com/titilima/mangacon/blob/master/v2/release_notes.md)
 
+## 2.7.2.47 Beta3 (2021-02-01)
+
+* Optimize crawler engine & crash fix.
+
 ## 2.7.2.43 Beta2 (2020-11-27)
 
 * Fix a crash while parsing some mangas.
